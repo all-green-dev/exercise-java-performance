@@ -22,3 +22,8 @@ or add a manifest and run
 ```
 java -javaagent:joularjx-3.0.1.jar -jar <jar location>
 ```
+
+
+## Copyright
+
+Copyright 2025 Jochen Joswig
